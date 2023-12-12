@@ -1,2 +1,2 @@
 # Kubernets
-My Kubernets Studies
+My Kubernetes Studies
